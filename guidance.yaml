@@ -1,0 +1,7 @@
+label:
+  why_it_matters: >
+    Screen reader users rely on labels to understand the purpose of form fields.
+  recommended_fix: >
+    Ensure each input has a visible <label> associated via for/id.
+  coaching_tip: >
+    Place labels above fields; placeholders are not a replacement.
